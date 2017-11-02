@@ -6,10 +6,10 @@
                 <div class="footer-col col-md-4">
                     <h3>Location</h3>
                     <p>{{ site.address_street }}
-                        <br>{{ site.address_city }}, {{ site.address_state }} {{ site.address_zip }}</p>
+                        <br>{{ site.address_city }} {{ site.address_state }} {{ site.address_zip }}</p>
                 </div>
                 <div class="footer-col col-md-4">
-                    <h3>Around the Web</h3>
+                    <h3>Connect</h3>
                     <ul class="list-inline">
                         {% if site.facebook_username %}
                         <li>
@@ -51,11 +51,16 @@
 							<a href="{{ site.linkedin_url }}" class="btn-social btn-outline"><i class="fa fa-fw fa-linkedin"></i></a>
                         </li>
                         {% endif %}
+			{% if site.medium_username %}
+                        <li>
+							<a href="https://medium.com/@{{ site.medium_username }}" class="btn-social btn-outline"><i class="fa fa-fw fa-medium"></i></a>
+                        </li>
+                        {% endif %}
                     </ul>
                 </div>
                 <div class="footer-col col-md-4">
-                    <h3>About {{ site.title }}</h3>
-                    <p><a href="http://startbootstrap.com">Start Bootstrap</a> is an open source library of Bootstrap themes and templates.</p>
+                    <h3>Colophon</h3>
+                    <p>Made with &#x2661; using <a href="https://jekyllrb.com/" target="_blank">jekyll</a>, <a href="https://startbootstrap.com/" target="_blank">bootstrap</a> and hosted through <a href="https://pages.github.com/" target="_blank">GitHub Pages</a></p>
                 </div>
             </div>
         </div>
@@ -64,7 +69,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-lg-12">
-                    Copyright &copy; Your Website {{ site.time | date: "%Y" }}
+                    Copyright &copy; Brian Hendrick {{ site.time | date: "%Y" }}
                 </div>
             </div>
         </div>
