@@ -83,7 +83,7 @@ hr.triangle-top-primary:after {
 header {
     text-align: center;
     color: #fff;
-    background: #327669
+    background: #76323f
 }
 
 header .container {
@@ -182,7 +182,7 @@ section h2 {
 
 section.success {
     color: #fff;
-    background: #04201c;
+    background: #76323f;
 }
 
 @media(max-width:767px) {
