@@ -18,9 +18,8 @@ category: Design
         <h4>RWZ.IO</h4>
         <p>Created a collaborative project which provides a digital space to curate audio-visual works of art.</p>
       </div>
-      <br>
-<hr width="88%" align="center">
-      <br>
+      <br> <br> <br>
+<hr width="100%" align="center">
       <div class="col lg-3 md-12 sm-12 section-title" align="left">
         <h3>Fellowships</h3>
       </div>
@@ -31,9 +30,8 @@ category: Design
         <h4>The RSA</h4>
         <p>Awarded fellowship of the Royal Society for the encouragement of Arts, Manufacturing, and Commerce.</p>
       </div>
-      <br>
-<hr width="88%" align="center">
-      <br>
+      <br> <br> <br>
+<hr width="100%" align="center">
       <div class="col lg-3 md-12 sm-12 section-title" align="left">
         <h3>Volunteering</h3>
       </div>
