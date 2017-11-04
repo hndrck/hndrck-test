@@ -19,7 +19,7 @@ category: Design
         <p>Created a collaborative project which provides a digital space to curate audio-visual works of art.</p>
       </div>
       <br>
- ***
+<hr width="88%" align="center">
       <br>
       <div class="col lg-3 md-12 sm-12 section-title" align="left">
         <h3>Fellowships</h3>
@@ -32,7 +32,7 @@ category: Design
         <p>Awarded fellowship of the Royal Society for the encouragement of Arts, Manufacturing, and Commerce.</p>
       </div>
       <br>
- ***
+<hr width="88%" align="center">
       <br>
       <div class="col lg-3 md-12 sm-12 section-title" align="left">
         <h3>Volunteering</h3>
