@@ -17,8 +17,8 @@ category: Design
       <div class="col lg-6 md-8 sm-12" align="left">
         <h4>RWZ.IO</h4>
         <p>Created a collaborative project which provides a digital space to curate audio-visual works of art.</p>
-      </div>
       <br> <br> <br>
+      </div>
 <hr width="100%" align="center">
       <div class="col lg-3 md-12 sm-12 section-title" align="left">
         <h3>Fellowships</h3>
@@ -29,8 +29,8 @@ category: Design
       <div class="col lg-6 md-8 sm-12" align="left">
         <h4>The RSA</h4>
         <p>Awarded fellowship of the Royal Society for the encouragement of Arts, Manufacturing, and Commerce.</p>
+        <br> <br> <br>
       </div>
-      <br> <br> <br>
 <hr width="100%" align="center">
       <div class="col lg-3 md-12 sm-12 section-title" align="left">
         <h3>Volunteering</h3>
