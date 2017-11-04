@@ -1,13 +1,21 @@
 ---
 layout: post
-title:  "Circus"
+title:  "Personal"
 date:   2016-02-04 15:08:10 -0500
 img: img/portfolio/circus.png
 modalID: modalCircus
 category: Design
 ---
-Use this area of the page to describe your project. The icon above is part of a free icon set by [Flat Icons][flat-icons-link]. On their website, you can download their free set with 16 icons, or you can purchase the entire set with 146 icons for only $12!
-
-In the Jekyll version of Freelancer, each portfolio item is a separate post that you can edit using markdown!
-
-[flat-icons-link]: https://sellfy.com/p/8Q9P/jV3VZ/
+    <section class="grid">
+      <hr>
+      <div class="col lg-3 md-12 sm-12 section-title">
+        <h2>Personal Projects</h2>
+      </div>
+      <div class="col lg-3 md-4 sm-12">
+        <p>2017 - Present</p>
+      </div>
+      <div class="col lg-6 md-8 sm-12">
+        <h3>RWZ.IO</h3>
+        <p>Created a collaborative project which provides a digital space to curate audio-visual works of art.</p>
+      </div>
+    </section>
