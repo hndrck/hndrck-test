@@ -19,3 +19,29 @@ category: Design
         <p>Created a collaborative project which provides a digital space to curate audio-visual works of art.</p>
       </div>
 </section>
+<section class="grid">
+      <hr>
+      <div class="col lg-3 md-12 sm-12 section-title" align="left">
+        <h3>Fellowships</h3>
+      </div>
+      <div class="col lg-3 md-4 sm-12" align="left">
+        <h5>2017 - Present</h5>
+      </div>
+      <div class="col lg-6 md-8 sm-12" align="left">
+        <h4>The RSA</h4>
+        <p>Awarded fellowship of the Royal Society for the encouragement of Arts, Manufacturing, and Commerce.</p>
+      </div>
+</section>
+<section class="grid">
+      <hr>
+      <div class="col lg-3 md-12 sm-12 section-title" align="left">
+        <h3>Volunteering</h3>
+      </div>
+      <div class="col lg-3 md-4 sm-12" align="left">
+        <h5>2017 - Present</h5>
+      </div>
+      <div class="col lg-6 md-8 sm-12" align="left">
+        <h4>LSE Disability Mentoring Scheme</h4>
+        <p>Mentor an LSE student to help navigate career prospects and disclosing disability when applying for jobs</p>
+      </div>
+</section>
