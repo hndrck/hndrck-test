@@ -9,14 +9,14 @@ category: Design
 <section class="grid">
       <hr>
       <div class="col lg-3 md-12 sm-12 section-title" align="left">
-        <h3>Projects</h3>
+        <h4>Projects</h4>
       </div>
       <div class="col lg-3 md-4 sm-12" align="left">
-        <h5>2017 - Present</h5>
+        <h6>2017 - Present</h6>
       </div>
       <div class="col lg-6 md-8 sm-12" align="left">
-        <h4>RWZ.IO</h4>
-        <p>Created a collaborative project which provides a digital space to curate audio-visual works of art.</p>
+        <h5>RWZ.IO</h5>
+        <h6>Created a collaborative project which provides a digital space to curate audio-visual works of art.</h6>
       </div>
 </section>
 <section class="grid">
