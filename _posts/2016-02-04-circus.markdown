@@ -6,7 +6,7 @@ img: img/portfolio/circus.png
 modalID: modalCircus
 category: Design
 ---
-    <section class="grid">
+<section class="grid">
       <hr>
       <div class="col lg-3 md-12 sm-12 section-title">
         <h2>Personal Projects</h2>
@@ -18,4 +18,4 @@ category: Design
         <h3>RWZ.IO</h3>
         <p>Created a collaborative project which provides a digital space to curate audio-visual works of art.</p>
       </div>
-    </section>
+</section>
