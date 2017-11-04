@@ -12,15 +12,13 @@ category: Design
         <h4>Projects</h4>
       </div>
       <div class="col lg-3 md-4 sm-12" align="left">
-        <h6>2017 - Present</h6>
+        <[>2017 - Present</p>
       </div>
       <div class="col lg-6 md-8 sm-12" align="left">
-        <h5>RWZ.IO</h5>
-        <h6>Created a collaborative project which provides a digital space to curate audio-visual works of art.</h6>
+        <h4>RWZ.IO</h4>
+        <p>Created a collaborative project which provides a digital space to curate audio-visual works of art.</p>
       </div>
-</section>
-<section class="grid">
-      <hr>
+       <hr>
       <div class="col lg-3 md-12 sm-12 section-title" align="left">
         <h3>Fellowships</h3>
       </div>
@@ -31,6 +29,9 @@ category: Design
         <h4>The RSA</h4>
         <p>Awarded fellowship of the Royal Society for the encouragement of Arts, Manufacturing, and Commerce.</p>
       </div>
+</section>
+<section class="grid">
+     
 </section>
 <section class="grid">
       <hr>
