@@ -38,7 +38,7 @@ category: Design
         <h5>2017 - Present</h5>
       </div>
       <div class="col lg-6 md-8 sm-12" align="left">
-        <h4><a href="https://www.thersa.org/" "target="_blank"">The RSA</a></h4>
+        <h4><a href="https://www.thersa.org/" target="_blank"">The RSA</a></h4>
         <p>Awarded fellowship of the Royal Society for the encouragement of Arts, Manufacturing, and Commerce.</p>
         <br> <br> <br>
       </div>
@@ -50,7 +50,7 @@ category: Design
         <h5>2017 - Present</h5>
       </div>
       <div class="col lg-6 md-8 sm-12" align="left">
-        <h4><a href="https://info.lse.ac.uk/current-students/careers/services/for/students-with-disabilities/disability-mentoring-scheme" target="_blank">LSE Disability Mentoring Scheme</h4>
+        <h4><a href="https://info.lse.ac.uk/current-students/careers/services/for/students-with-disabilities/disability-mentoring-scheme" target="_blank">LSE Disability Mentoring Scheme</a></h4>
         <p>Mentor an LSE student to help navigate career prospects and disclosing disability when applying for jobs</p>
       </div>
 </section>
