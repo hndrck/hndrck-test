@@ -15,7 +15,7 @@ category: Design
         <h5>2017 - Present</h5>
       </div>
       <div class="col lg-6 md-8 sm-12" align="left">
-        <h4><a href="https:/rwz.io" target="_blank">RWZ.IO</a></h4>
+        <h4><a href="https://rwz.io" target="_blank">RWZ.IO</a></h4>
         <p>Created, designed, and developed a project which provides a digital space to curate audio-visual works of art. It embraces an ethos of openness, collaboration, and continuous improvement.</p>
       <br> <br> <br>
       </div>
@@ -23,7 +23,7 @@ category: Design
         <h5>2015</h5>
       </div>
       <div class="col lg-6 md-8 sm-12" align="left">
-        <h4><a href="https://www.aaai.org/ocs/index.php/ICWSM/ICWSM15/paper/viewFile/10650/10543" targe="_blank">Digital Rendezvous: Experiences of Students, Staff, and Alumni on a Campus Memory Map</a></h4>
+        <h4><a href="https://www.aaai.org/ocs/index.php/ICWSM/ICWSM15/paper/viewFile/10650/10543" target="_blank">Digital Rendezvous: Experiences of Students, Staff, and Alumni on a Campus Memory Map</a></h4>
             <h6>Association for Advancement of Artificial Intelligence</h6>
         <p>The project aimed to develop interactive maps, where students, stuff, and alumni can share their memories about a physical space: a university campus.</p>
 
