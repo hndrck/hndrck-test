@@ -15,8 +15,19 @@ category: Design
         <h5>2017 - Present</h5>
       </div>
       <div class="col lg-6 md-8 sm-12" align="left">
-        <h4>RWZ.IO</h4>
+        <h4><a href="https:/rwz.io" target="_blank">RWZ.IO</a></h4>
         <p>Created a collaborative project which provides a digital space to curate audio-visual works of art.</p>
+      <br> <br> <br>
+      </div>
+      <div class="col lg-3 md-4 sm-12" align="left">
+        <h5>2015</h5>
+      </div>
+      <div class="col lg-6 md-8 sm-12" align="left">
+        <h4><a href="https://www.aaai.org/ocs/index.php/ICWSM/ICWSM15/paper/viewFile/10650/10543" targe="_blank">Digital Rendezvous: Experiences of Students, Staff, and Alumni on a Campus Memory Map</a></h4><br>
+            <h6>Association for Advancement of Artificial Intelligence</h6>
+        <p>The project aimed to develop interactive maps, where students, stuff, and alumni can share their memories about a physical space: a university campus.
+<br><br>
+Presented on May 26 2015 at the 9th International AAAI Conference of Web and Social Media</p>
       <br> <br> <br>
       </div>
 <hr width="100%" align="center">
@@ -24,7 +35,7 @@ category: Design
         <h3>Fellowships</h3>
       </div>
       <div class="col lg-3 md-4 sm-12" align="left">
-        <p>2017 - Present</p>
+        <h5>2017 - Present</h5>
       </div>
       <div class="col lg-6 md-8 sm-12" align="left">
         <h4>The RSA</h4>
