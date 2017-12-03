@@ -1,13 +1,72 @@
 ---
 layout: post
-title:  "Cake"
+title:  "Education"
 date:   2016-02-05 15:08:10 -0500
 img: img/portfolio/cake.png
 modalID: modalCake
 category: Design
 ---
-Use this area of the page to describe your project. The icon above is part of a free icon set by [Flat Icons][flat-icons-link]. On their website, you can download their free set with 16 icons, or you can purchase the entire set with 146 icons for only $12!
-
-In the Jekyll version of Freelancer, each portfolio item is a separate post that you can edit using markdown!
-
-[flat-icons-link]: https://sellfy.com/p/8Q9P/jV3VZ/
+<section class="grid">
+      <hr>
+      <div class="col lg-3 md-12 sm-12 section-title" align="left">
+        <h3>University</h3>
+      </div>
+      <div class="col lg-3 md-4 sm-12" align="left">
+        <h5>2014 - 2015</h5>
+      </div>
+      <div class="col lg-6 md-8 sm-12" align="left">
+        <h4>MSc Philosophy and Public Policy</h4>
+        <h6>London School of Economics</h6>
+        <p>Graduated with merit from interdisciplinary studies applying philosophical theory into policy practices, with a focus on digital policy and philosophy of technology. Dissertation introduced the concept of a cyber-harm principle to synthesise the conflict between cyber-libertarianism and cyber-paternalism.
+</p>
+      <br> <br> <br>
+      </div>
+      <div class="col lg-3 md-4 sm-12" align="left">
+        <h5>2010 - 2014</h5>
+      </div>
+      <div class="col lg-6 md-8 sm-12" align="left">
+        <h4>BA (Hons) Philosophy and Political Science</h4>
+        <h6>University of Guelph</h6>
+        <p>Graduated with distinction from a double major in Philosophy and Political Science. Researched and wrote two honours theses: one focusing on how digital media and the internet influences our perception of and relationship with the self, others, and the world. The other doing a comparative analysis of monetary policy within Canada and the UK, researching the potential conflict central banks may have on principles of democracy. 
+</p>
+      <br> <br> <br>
+      </div>
+<hr width="100%" align="center">
+      <div class="col lg-3 md-12 sm-12 section-title" align="left">
+        <h3>Independent Study</h3>
+      </div>
+  <div class="col lg-3 md-4 sm-12" align="left">
+        <h5>2017</h5>
+      </div>
+      <div class="col lg-6 md-8 sm-12" align="left">
+        <h4>User Experience Design</h4>
+        <h6>General Assembly</h6>
+        <p>Placeholder Text
+</p>
+        <br><br>
+        <p><a href="/docs/GA-UXD-Certificate.pdf" target="_blank">View certificate</a>.</p>
+      <br> <br> <br>
+      </div>
+      <div class="col lg-3 md-4 sm-12" align="left">
+        <h5>2017</h5>
+      </div>
+      <div class="col lg-6 md-8 sm-12" align="left">
+        <h4>Design Kit: The Course for Human-Centered Design</h4>
+        <h6>IDEO</h6>
+        <p>Placeholder text
+</p>
+        <br><br>
+        <p><a href="/docs/IDEO-HCD-Certificate.pdf" target="_blank">View certificate</a>.</p>
+      <br> <br> <br>
+      <div class="col lg-3 md-4 sm-12" align="left">
+        <h5>2017 - Present</h5>
+      </div>
+      <div class="col lg-6 md-8 sm-12" align="left">
+        <h4>Practitioner in Agile</h4>
+        <h6>British Computer Society</h6>
+        <p>Placeholder Text</p>
+        <br><br>
+        <p><a href="/docs/Agile-Practitioner.pdf" target="_blank">View certificate</a>.</p>
+        <br> <br> <br>
+      </div>
+<hr width="100%" align="center">
