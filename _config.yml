@@ -11,7 +11,7 @@ email: b.r.hendrick@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   agile aficionado - design thinker - product person
 baseurl: # the subpath of your site, e.g. /blog
-url: "http://hndrck.github.io" # the base hostname & protocol for your site
+url: "http://brianhendrick.com" # the base hostname & protocol for your site
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
