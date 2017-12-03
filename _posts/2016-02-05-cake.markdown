@@ -12,11 +12,11 @@ category: Design
         <h3>University</h3>
       </div>
       <div class="col lg-3 md-4 sm-12" align="left">
-        <h5>2014 - 2015</h5>
+        <p>2014 - 2015</p>
       </div>
       <div class="col lg-6 md-8 sm-12" align="left">
-        <h4>MSc Philosophy and Public Policy</h4>
-        <h6>London School of Economics</h6>
+        <p><b>MSc Philosophy and Public Policy</b></p>
+        <p><i>London School of Economics</i></p>
         <p>Graduated with merit from interdisciplinary studies applying philosophical theory into policy practices, with a focus on digital policy and philosophy of technology. Dissertation introduced the concept of a cyber-harm principle to synthesise the conflict between cyber-libertarianism and cyber-paternalism.
 </p>
       <br> <br> <br>
