@@ -7,13 +7,12 @@ modalID: modalCabin
 category: Design
 ---
 <div align="left">
-<p>I have extensive experience working in: 
+<p>I have extensive experience working in:</p>
 <ul>
 <li>agile at scale - from organisation comprising of just four people to some of the largest government departments,</li>
 <li>end-to-end delivery - from pre-discovery to live services, and</li> 
 <li>applying user centered design within public services -from experience mapping, building prototypes, conducting user research, and iterating based on feedback.</li>
 <ul>
-</p>
 </div>
   
   <section class="grid">
