@@ -20,13 +20,11 @@ I have extensive experience working in:
       </div>
    <br>
       <div class="col lg-3 md-4 sm-12 list-block" align="left">
-        <p>
         <ul>
           <li>Agile Delivery</li>
           <li>Digital Policy</li>
           <li>Stakeholder Engagement</li>
         </ul>
-         </p>
       </div>
       <div class="col lg-3 md-4 sm-12 list-block" align="left">
         <ul>
