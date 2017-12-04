@@ -9,7 +9,7 @@ category: Design
 <section class="grid">
       <hr>
       <div class="col lg-3 md-12 sm-12 section-title" align="left">
-        ### Projects
+        <h3>Projects</h3>
       </div>
       <div class="col lg-3 md-4 sm-12" align="left">
         <p>2017 - Present</p>
