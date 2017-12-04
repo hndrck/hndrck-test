@@ -7,7 +7,7 @@ modalID: modalCake
 category: Design
 ---
 <div align="left">
-<p>I am a lifelong learner who has a good balance of practical and academic education. I enjoy reading books on philosophy, politics, and good design, as well as taking online courses to improve my knowledge within the digital space. As an advocate for applying philosophy in everyday life and lover of all things digital, I have been fortunate to utilise my education in my professional and personal life. </p>
+<p>Studying philosophy of technology, phenomenology of the internet, and digital policy has enabled me to apply theory into practice while working on professional and personal projects. I’m constantly striving to find a balance between practical knowledge and theoretical understanding. I enjoy reading books on philosophy and design, as well as taking online courses to improve and master my skills using digital tools. </p>
       </div>
 <section class="grid">
       <hr>
@@ -32,7 +32,7 @@ category: Design
         <p><b>BA (Hons) Philosophy and Political Science</b></p>
         <p>University of Guelph</p>
         
-<p>Graduated with distinction from a double major in Philosophy and Political Science. Researched and wrote two honours theses: one focusing on how digital media and the internet influences our perception of and relationship with the self, others, and the world. The other doing a comparative analysis of monetary policy within Canada and the UK, researching the potential conflict central banks may have on principles of democracy. 
+<p>Graduated with distinction from a double major in Philosophy and Political Science. Researched and wrote two honours theses: one focusing on phenomenology of the internet. The other involved a comparative analysis of monetary policy within Canada and the UK, researching the potential conflict central banks may have on principles of democracy. 
 </p>
       <br> <br> <br>
       </div>
@@ -47,11 +47,11 @@ category: Design
         <p><b>User Experience Design</b></p>
         <p>General Assembly</p>
         
-<p>Engaged in an intensive user experience design course which began with defining a problem and going through design process to come up with a solution. It involved conducting user-research, experience mapping, wireframing, rapid prototyping, usability testing, and presenting our work in a final presentation.</p>
+<p>Completed an accelerated user experience design course which began with defining a problem and going through design process to find a solution. It involved conducting user-research, experience mapping, wireframing, rapid prototyping, usability testing, and presenting our work in a final presentation.</p>
         
-<p><a href="/docs/GA-Presentation.pdf" target="_blank">Final presentation.</a>.</p>
+<p><a href="/docs/GA-Presentation.pdf" target="_blank">Final presentation</a></p>
 
-<p><a href="/docs/GA-UXD-Certificate.pdf" target="_blank">View certificate</a>.</p>
+<p><a href="/docs/GA-UXD-Certificate.pdf" target="_blank">View certificate</a></p>
       <br> <br> <br>
       </div>
       <div class="col lg-3 md-4 sm-12" align="left">
@@ -63,21 +63,21 @@ category: Design
         
 <p>Successfully completed an intensive course run by IDEO, in a team with two other designers based in Toronto. We collaborated on a design challenge to go through the stages of inspiration, ideation, and implementation.</p>
         
-<p><a href="/docs/IDEO-Presentation.pdf" target="_blank">Learning outcome and result of our hard work</a>.</p>
+<p><a href="/docs/IDEO-Presentation.pdf" target="_blank">Learning outcomes and final project</a></p>
 
-<p><a href="/docs/IDEO-HCD-Certificate.pdf" target="_blank">Statement of Accomplishment</a>.</p>
+<p><a href="/docs/IDEO-HCD-Certificate.pdf" target="_blank">Statement of Accomplishment</a></p>
       <br> <br> <br>
       </div>
       <div class="col lg-3 md-4 sm-12" align="left">
-        <p>2017 - Present</p>
+        <p>2017</p>
       </div>
       <div class="col lg-6 md-8 sm-12" align="left">
         <p><b>Practitioner in Agile</b></p>
         <p>British Computer Society</p>
         
-<p>Pursued a 12-week part-time training course provided by emergn around the fundamental principles of agile, lean, and user-centred design. At the end, I was wrote and successfully passed an exam provided by the British Computer Society which provides a professional certification as a practitioner in agile.</p>
+<p>Pursued a 12-week part-time training course provided by <i>emergn</i> around the fundamental principles of agile, lean, and user-centred design. Successfully completed exam provided by the British Computer Society.</p>
     
-<p><a href="/docs/Agile-Presentation.pdf" target="_blank">How I applied my learning while working as a Scrum Master</a>.</p>
+<p><a href="/docs/Agile-Presentation.pdf" target="_blank">How I applied my learning while working as a Scrum Master</a></p>
 
 <p><a href="/docs/Agile-Practitioner.pdf" target="_blank">Agile Practitioner certification</a>.</p>
         <br> <br> <br>
