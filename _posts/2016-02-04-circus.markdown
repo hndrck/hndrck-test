@@ -26,7 +26,7 @@ category: Design
         <p>2015</p>
       </div>
       <div class="col lg-6 md-8 sm-12" align="left">
-        <p><b>Digital Rendezvous: Experiences of Students, Staff, and Alumni on a Campus Memory Map<b></p>
+        <p><b>Digital Rendezvous: Experiences of Students, Staff, and Alumni on a Campus Memory Map</b></p>
             <p>Association for Advancement of Artificial Intelligence</p>
             
 <p>The project aimed to develop interactive maps, where students, stuff, and alumni can share their memories about a physical space: a university campus.</p>
