@@ -26,7 +26,7 @@ category: Design
           <li>Prototyping</li>
         </ul>
       </div>
-      <div class="col lg-3 md-4 sm-12 list-block"align="left">
+      <div class="col lg-3 md-4 sm-12 list-block" align="left">
         <ul>
           <li>HTML and CSS</li>
           <li>User Research</li>
