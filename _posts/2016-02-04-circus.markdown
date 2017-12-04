@@ -7,8 +7,7 @@ modalID: modalCircus
 category: Design
 ---
 <div align="left">
-     <p>Outside of my professional and educational life, I enjoy immersing myself in cultural events. I am a music and art lover. You will find me at a concert, in a museum, art gallery, or browsing wikipedia enjoying the infinite amount of information provided by the internet. Here are some projects, organisations, and volunteering I pursue in my free time:</p>
- 
+     <p>Outside of my professional and educational life, I enjoy immersing myself in cultural events. I am a music and art lover. You will find me at a concert, in a museum, art gallery, or browsing wikipedia enjoying the infinite amount of information provided by the internet. Here are some projects, organisations, and volunteering I engage with in my free time:</p>
 <section class="grid">
       <hr>
       <div class="col lg-3 md-12 sm-12 section-title" align="left">
