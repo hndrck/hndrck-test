@@ -1,27 +1,22 @@
-# [Start Bootstrap](http://startbootstrap.com/) - [Freelancer Jekyll Version](http://startbootstrap.com/template-overviews/freelancer/)
+# [My personal website](http://brianhendrick.com/)
 
-[Freelancer Jekyll Version](http://startbootstrap.com/template-overviews/1-col-portfolio/) is a Jekyll build for the Freelancer portfolio theme based on [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/).
+Personal website seem somewhat obsolete with the amount of digital platforms we can project our egos and portray ourselves. That being said, as someone who works in digital I find having a personal website as online real-estate that is essential for showing my online presence and being tech savvy. It is also really fun to build and learn how to develop for the web.
 
-## Getting Started
+There are plenty of platforms which easily let you create websites, but these can be costly and limiting. So I decided to create this website completely in a web-browser, using an open source template and hosting on github. The only cost of maintaining this website is my time and the price of a domain name.
 
-To begin using this template, choose one of the following options to get started:
-* [Download the latest release on Start Bootstrap](http://startbootstrap.com/template-overviews/freelancer/)
-* Clone the repo: `git clone https://github.com/BlackrockDigital/startbootstrap-freelancer.git`
-* Fork the repo
+Fun fact, my indecisiveness made me purchase two domain names: brianhendrick.com and hendrick.digital, I decided to go with the former but may spontaneously switch to the latter because I think it sounds cooler.
 
-## Bugs and Issues
+## Credits
 
-Have a bug or an issue with this template? [Open a new issue](https://github.com/BlackrockDigital/startbootstrap-freelancer-jekyll/issues) here on GitHub or leave a comment on the [template overview page at Start Bootstrap](http://startbootstrap.com/template-overviews/freelancer/).
+* Jekyll
+* Cloudflare
+* Craig Jones for influencing me to write my CV in HTML and allowing me to use his source code. 
+* Formspree.io
+* Blackrock Digital
+* GitHub
+* Everyone who provided feedback and support.
 
-## Creator
-
-Start Bootstrap was created by and is maintained by **[David Miller](http://davidmiller.io/)**, Owner of [Blackrock Digital](http://blackrockdigital.io/).
-
-* https://twitter.com/davidmillerskt
-* https://github.com/davidtmiller
-
-Start Bootstrap is based on the [Bootstrap](http://getbootstrap.com/) framework created by [Mark Otto](https://twitter.com/mdo) and [Jacob Thorton](https://twitter.com/fat).
 
 ## Copyright and License
 
-Copyright 2013-2016 Blackrock Digital LLC. Code released under the [MIT](https://github.com/BlackrockDigital/startbootstrap-freelancer-jekyll/blob/gh-pages/LICENSE) license.
+Released under the [MIT](https://github.com/hndrck/hndrck.github.io/LICENSE) license.
