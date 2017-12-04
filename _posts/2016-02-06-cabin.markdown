@@ -14,7 +14,7 @@ category: Design
 <li><p><b>applying user centered design</b> - from experience mapping, building prototypes, conducting user research, and iterating based on feedback.</p></li>
 </ul>
 
-<p>With a specialty working in public services and digital government.</p>
+<p>With a speciality working in public services and digital government.</p>
   <section class="grid">
       <hr>
       <div class="col lg-3 md-12 sm-12 section-title" align="left">
@@ -48,7 +48,7 @@ category: Design
         <p><b>Delivery Lead / Scrum Master</b></p>
         <p>Her Majesty's Revenue and Customs</p>
         
-<p>Led and managed the delivery of a policy-driven digital service: Country-by-Country reporting. Worked in agile at scale, managing a small multidisciplinary team to deliver an unprecedented international project sharing data between tax authorities.
+<p>Led and managed the delivery of a policy-driven digital service: Country-by-Country reporting. Worked in agile at scale, managing a small multidisciplinary team to deliver an unprecedented international project which shares data submitted by multinational-enterprises between tax authorities.
 </p>
         <br> <br> <br>
       </div>
@@ -70,7 +70,7 @@ category: Design
         <p><b>Digital Policy Advisor</b></p>
         <p>Government Digital Service</p>
         
-<p>Worked within an agile and user-centred policy team to champion assisted digital and digital inclusion. Led the delivery and usability testing of a pilot project researching assisted digital support for identity assurance, the findings were utilised in future iterations of the GOV.UK service manual.
+<p>Worked within an agile and user-centred policy team to champion assisted digital and digital inclusion. Led the delivery and usability testing of a pilot project that researched assisted digital support for identity assurance, the findings were utilised in future iterations of the GOV.UK service manual.
 </p>
         <br> <br> <br>
       </div>
