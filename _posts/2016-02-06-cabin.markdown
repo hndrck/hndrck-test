@@ -1,13 +1,35 @@
 ---
 layout: post
-title:  "Cabin"
+title:  "Professional"
 date:   2016-02-06 15:08:10 -0500
 img: img/portfolio/cabin.png
 modalID: modalCabin
 category: Design
 ---
-Use this area of the page to describe your project. The icon above is part of a free icon set by [Flat Icons][flat-icons-link]. On their website, you can download their free set with 16 icons, or you can purchase the entire set with 146 icons for only $12!
-
-In the Jekyll version of Freelancer, each portfolio item is a separate post that you can edit using markdown!
-
-[flat-icons-link]: https://sellfy.com/p/8Q9P/jV3VZ/
+   <section class="grid">
+      <hr>
+      <div class="col lg-3 md-4 sm-12 section-title">
+        <h2>Skillset</h2>
+      </div>
+      <div class="col lg-3 md-4 sm-12 list-block">
+        <ul>
+          <li>Agile Delivery</li>
+          <li>Digital Policy</li>
+          <li>Stakeholder Engagement</li>
+        </ul>
+      </div>
+      <div class="col lg-3 md-4 sm-12 list-block">
+        <ul>
+          <li>Design Thinking</li>
+          <li>Experience Mappingg</li>
+          <li>Prototyping</li>
+        </ul>
+      </div>
+      <div class="col lg-3 md-4 sm-12 list-block">
+        <ul>
+          <li>HTML and CSS</li>
+          <li>User Research</li>
+          <li class="baselinex0">UX and Service Design</li>
+        </ul>
+      </div>
+    </section>
