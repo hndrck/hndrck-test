@@ -6,6 +6,9 @@ img: img/portfolio/cake.png
 modalID: modalCake
 category: Design
 ---
+<div align="left">
+<p>I am a lifelong learner who has a good balance of practical and academic education. I enjoy reading books on philosophy, politics, and good design, as well as taking online courses to improve my knowledge within the digital space. As an advocate for applying philosophy in everyday life and lover of all things digital, I have been fortunate to utilise my education in my professional and personal life. </p>
+      </div>
 <section class="grid">
       <hr>
       <div class="col lg-3 md-12 sm-12 section-title" align="left">
