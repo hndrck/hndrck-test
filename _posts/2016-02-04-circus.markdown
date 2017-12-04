@@ -19,7 +19,7 @@ category: Design
             
 <p>Created, designed, and developed a project which provides a digital space to curate audio-visual works of art. It embraces an ethos of openness, collaboration, and continuous improvement.</p>
             
-<p>a href="https://rwz.io" target="_blank">View project.</a></p>     
+<p><a href="https://rwz.io" target="_blank">View project.</a></p>     
       <br> <br> <br>
       </div>
       <div class="col lg-3 md-4 sm-12" align="left">
