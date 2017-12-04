@@ -9,10 +9,12 @@ category: Design
 <div align="left">
 <p>I have extensive experience working in:</p>
 <ul>
-<li><p>agile at scale - from organisation comprising of just four people to some of the largest government departments,</p></li>
-<li>end-to-end delivery - from pre-discovery to live services, and</li> 
-<li>applying user centered design within public services -from experience mapping, building prototypes, conducting user research, and iterating based on feedback.</li>
+<li><p><b>agile at scale</b> - from organisation comprising of just four people to some of the largest government departments,</p></li>
+<li><p><b>end-to-end delivery</b> - from nascent stages of pre-discovery to fully-functional live services.</p></li> 
+<li><b>applying user centered design</b> - from experience mapping, building prototypes, conducting user research, and iterating based on feedback.</li>
 </ul>
+
+<p>With a particular focus on public service and digital government.</p>
   <section class="grid">
       <hr>
       <div align="left">
