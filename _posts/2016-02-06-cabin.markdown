@@ -34,8 +34,8 @@ category: Design
           <li>User Research</li>
           <li class="baselinex0">UX and Service Design</li>
         </ul>
+        <br> <br> <br>
       </div>
-<br> <br> <br>
 <hr width="100%" align="center">
 <div align="left">
         <h3>Toolset</h3>
