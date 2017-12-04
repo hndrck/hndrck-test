@@ -22,7 +22,7 @@ category: Design
       <div class="col lg-3 md-4 sm-12 list-block" align="left">
         <ul>
           <li>Design Thinking</li>
-          <li>Experience Mappingg</li>
+          <li>Experience Mapping</li>
           <li>Prototyping</li>
         </ul>
       </div>
@@ -31,6 +31,40 @@ category: Design
           <li>HTML and CSS</li>
           <li>User Research</li>
           <li class="baselinex0">UX and Service Design</li>
+        </ul>
+      </div>
+   <div align="left">
+        <h3>Skillset</h3>
+      </div>
+   <br>
+      <div class="col lg-3 md-4 sm-12 list-block" align="left">
+        <ul>
+          <li>Agile Delivery</li>
+          <li>Digital Policy</li>
+          <li>Stakeholder Engagement</li>
+        </ul>
+<br> <br> <br>
+      </div>
+<hr width="100%" align="center">
+      <div class="col lg-3 md-4 sm-12 list-block" align="left">
+        <ul>
+          <li>Confluence</li>
+          <li>JIRA</li>
+          <li>Trello</li>
+        </ul>
+      </div>
+    <div class="col lg-3 md-4 sm-12 list-block" align="left">
+        <ul>
+          <li>InVision</li>
+          <li>Marvel</li>
+          <li>Sketch</li>
+        </ul>
+      </div>
+      <div class="col lg-3 md-4 sm-12 list-block" align="left">
+        <ul>
+          <li>Adobe Creative Suite</li>
+          <li>Google Suite</li>
+          <li class="baselinex0">Microsoft Office Suite</li>
         </ul>
       </div>
     </section>
