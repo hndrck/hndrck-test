@@ -17,7 +17,6 @@ category: Design
 <p>With a particular focus working in public service and digital government.</p>
   <section class="grid">
       <hr>
-  <hr width="100%" align="center">
       <div class="col lg-3 md-12 sm-12 section-title" align="left">
         <h3>Work</h3>
       </div>
@@ -30,8 +29,6 @@ category: Design
         
 <p>Designing for public facing and internal services within the scope of prisoner money. Building prototypes, usability testing, and experience mapping to ensure that end-to-end service delivery is constantly iterating to become more user-centred and save costs.
 </p>
-        
-<p><a href="https://www.gov.uk/send-prisoner-money" target="_blank">Public facing service.</a>.</p>
       <br> <br> <br>
       </div>
       <div class="col lg-3 md-4 sm-12" align="left">
