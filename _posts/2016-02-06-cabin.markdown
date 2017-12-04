@@ -8,24 +8,25 @@ category: Design
 ---
    <section class="grid">
       <hr>
-      <div class="col lg-3 md-4 sm-12 section-title">
-        <h2>Skillset</h2>
+      <div align="left">
+        <h3>Skillset</h3>
       </div>
-      <div class="col lg-3 md-4 sm-12 list-block">
+   <br>
+      <div class="col lg-3 md-4 sm-12 list-block" align="left">
         <ul>
           <li>Agile Delivery</li>
           <li>Digital Policy</li>
           <li>Stakeholder Engagement</li>
         </ul>
       </div>
-      <div class="col lg-3 md-4 sm-12 list-block">
+      <div class="col lg-3 md-4 sm-12 list-block" align="left">
         <ul>
           <li>Design Thinking</li>
           <li>Experience Mappingg</li>
           <li>Prototyping</li>
         </ul>
       </div>
-      <div class="col lg-3 md-4 sm-12 list-block">
+      <div class="col lg-3 md-4 sm-12 list-block"align="left">
         <ul>
           <li>HTML and CSS</li>
           <li>User Research</li>
