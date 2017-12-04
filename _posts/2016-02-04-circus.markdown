@@ -47,9 +47,6 @@ category: Design
   <p>Awarded fellowship of the Royal Society for the encouragement of Arts, Manufacturing, and Commerce. Frequently attend events, lectures, and meet-ups related to design and social innovation. <a href="https://www.thersa.org/" target="_blank">Find out more about the RSA</a>.</p>
         <br> <br> <br>
       </div>
-<div class="col lg-3 md-4 sm-12" align="left">
-        <p>2017 - Present</p>
-      </div>
 <hr width="100%" align="center">
       <div class="col lg-3 md-12 sm-12 section-title" align="left">
         <h3>Volunteering</h3>
@@ -60,6 +57,8 @@ category: Design
       <div class="col lg-6 md-8 sm-12" align="left">
         <p><b>London School of Economics</b></p>
       
-<p>Mentor an LSE student to help navigate career prospects and disclosing disability when applying for jobs. <a href="https://info.lse.ac.uk/current-students/careers/services/for/students-with-disabilities/disability-mentoring-scheme" target="_blank">Find out more about the mentoring scheme</a>.</p>
+<p>Mentor an LSE student to help navigate career prospects and disclosing disability when applying for jobs.</p>
+      
+<a href="https://info.lse.ac.uk/current-students/careers/services/for/students-with-disabilities/disability-mentoring-scheme" target="_blank">Find out more about the mentoring scheme</a>.
       </div>
 </section>
