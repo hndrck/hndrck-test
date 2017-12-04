@@ -21,4 +21,4 @@ Thank you all.
 
 ## Copyright and License
 
-Released under the [MIT](https://github.com/hndrck/hndrck.github.io/LICENSE) license.
+Released under the [MIT](https://github.com/hndrck/hndrck.github.io/blob/master/LICENSE) license.
