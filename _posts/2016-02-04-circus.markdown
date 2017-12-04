@@ -31,7 +31,7 @@ category: Design
             
 <p>The project aimed to develop interactive maps, where students, stuff, and alumni can share their memories about a physical space: a university campus.</p>
 
-<p><a href="https://www.aaai.org/ocs/index.php/ICWSM/ICWSM15/paper/viewFile/10650/10543" target="_blank">Presented on May 26 2015 at the 9th International AAAI Conference of Web and Social Media<</a>/p>
+<p><a href="https://www.aaai.org/ocs/index.php/ICWSM/ICWSM15/paper/viewFile/10650/10543" target="_blank">Presented on May 26 2015 at the 9th International AAAI Conference of Web and Social Media</a></p>
       <br> <br> <br>
       </div>
 <hr width="100%" align="center">
