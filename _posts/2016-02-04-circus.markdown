@@ -12,34 +12,50 @@ category: Design
         <h3>Projects</h3>
       </div>
       <div class="col lg-3 md-4 sm-12" align="left">
-        <h5>2017 - Present</h5>
+        <p>2017 - Present</p>
       </div>
       <div class="col lg-6 md-8 sm-12" align="left">
-        <h4><a href="https://rwz.io" target="_blank">RWZ.IO</a></h4>
-        <p>Created, designed, and developed a project which provides a digital space to curate audio-visual works of art. It embraces an ethos of openness, collaboration, and continuous improvement.</p>
+        <p><b>RWZ.IO</b></p>
+            
+<p>Created, designed, and developed a project which provides a digital space to curate audio-visual works of art. It embraces an ethos of openness, collaboration, and continuous improvement.</p>
+            
+<p>a href="https://rwz.io" target="_blank">View project.</a></p>     
       <br> <br> <br>
       </div>
       <div class="col lg-3 md-4 sm-12" align="left">
-        <h5>2015</h5>
+        <p>2015</p>
       </div>
       <div class="col lg-6 md-8 sm-12" align="left">
-        <h4><a href="https://www.aaai.org/ocs/index.php/ICWSM/ICWSM15/paper/viewFile/10650/10543" target="_blank">Digital Rendezvous: Experiences of Students, Staff, and Alumni on a Campus Memory Map</a></h4>
-            <h6>Association for Advancement of Artificial Intelligence</h6>
-        <p>The project aimed to develop interactive maps, where students, stuff, and alumni can share their memories about a physical space: a university campus.</p>
+        <p><b>Digital Rendezvous: Experiences of Students, Staff, and Alumni on a Campus Memory Map<b></p>
+            <p>Association for Advancement of Artificial Intelligence</p>
+            
+<p>The project aimed to develop interactive maps, where students, stuff, and alumni can share their memories about a physical space: a university campus.</p>
 
-<h7>Presented on May 26 2015 at the 9th International AAAI Conference of Web and Social Media</h7>
+<p><a href="https://www.aaai.org/ocs/index.php/ICWSM/ICWSM15/paper/viewFile/10650/10543" target="_blank">Presented on May 26 2015 at the 9th International AAAI Conference of Web and Social Media<</a>/p>
       <br> <br> <br>
       </div>
 <hr width="100%" align="center">
       <div class="col lg-3 md-12 sm-12 section-title" align="left">
-        <h3>Fellowships</h3>
+        <h3>Organisations</h3>
       </div>
       <div class="col lg-3 md-4 sm-12" align="left">
-        <h5>2017 - Present</h5>
+        <p>2017 - Present</p>
       </div>
       <div class="col lg-6 md-8 sm-12" align="left">
-        <h4><a href="https://www.thersa.org/" target="_blank">The RSA</a></h4>
-        <p>Awarded fellowship of the Royal Society for the encouragement of Arts, Manufacturing, and Commerce.</p>
+        <p><b>The RSA</b></a></h4>
+        <p>Fellow</p>
+        
+  <p>Awarded fellowship of the Royal Society for the encouragement of Arts, Manufacturing, and Commerce. Frequently attend events, lectures, and meet-ups related to design and social innovation. <a href="https://www.thersa.org/" target="_blank">Find out more about the RSA</a>.</p>
+        <br> <br> <br>
+      </div>
+<div class="col lg-3 md-4 sm-12" align="left">
+        <p>2017 - Present</p>
+      </div>
+      <div class="col lg-6 md-8 sm-12" align="left">
+        <p><b>BCS</b></a></h4>
+        <p>Associate Member</p>
+        
+  <p>Rewarded with associate membership of the British Computer Society after successfully earning my Agile Practitioner Certification. The BCS is the UK's professional body and learned society for working in Information Technology. <a href="https://www.bcs.org/" target="_blank">Find out more about the BCS</a>.</p>
         <br> <br> <br>
       </div>
 <hr width="100%" align="center">
@@ -47,10 +63,12 @@ category: Design
         <h3>Volunteering</h3>
       </div>
       <div class="col lg-3 md-4 sm-12" align="left">
-        <h5>2017 - Present</h5>
+        <p>2017 - Present</p>
       </div>
       <div class="col lg-6 md-8 sm-12" align="left">
-        <h4><a href="https://info.lse.ac.uk/current-students/careers/services/for/students-with-disabilities/disability-mentoring-scheme" target="_blank">LSE Disability Mentoring Scheme</a></h4>
-        <p>Mentor an LSE student to help navigate career prospects and disclosing disability when applying for jobs</p>
+        <p><b>London School of Economics</b></p>
+        <p>Mentor<p>
+      
+<p>Mentor an LSE student to help navigate career prospects and disclosing disability when applying for jobs. <a href="https://info.lse.ac.uk/current-students/careers/services/for/students-with-disabilities/disability-mentoring-scheme" target="_blank">Find out more about the mentoring scheme</a>.</p>
       </div>
 </section>
