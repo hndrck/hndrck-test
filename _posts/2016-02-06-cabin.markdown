@@ -35,19 +35,12 @@ category: Design
           <li class="baselinex0">UX and Service Design</li>
         </ul>
       </div>
-   <div align="left">
-        <h3>Skillset</h3>
+<br> <br> <br>
+<hr width="100%" align="center">
+<div align="left">
+        <h3>Toolset</h3>
       </div>
    <br>
-      <div class="col lg-3 md-4 sm-12 list-block" align="left">
-        <ul>
-          <li>Agile Delivery</li>
-          <li>Digital Policy</li>
-          <li>Stakeholder Engagement</li>
-        </ul>
-<br> <br> <br>
-      </div>
-<hr width="100%" align="center">
       <div class="col lg-3 md-4 sm-12 list-block" align="left">
         <ul>
           <li>Confluence</li>
