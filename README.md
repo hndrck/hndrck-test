@@ -8,13 +8,15 @@ Fun fact, my indecisiveness made me purchase two domain names: brianhendrick.com
 
 There are plenty of platforms which easily let you create websites, but these can be costly and limiting. So I decided to create this website completely in a web-browser, using an open source template and hosting on github. The only cost of maintaining this website is my time and the price of a domain name. I could not have done it alone, so here is a special thanks to all the people, products, and services that enabled me to build my personal website:
 
-* Jekyll
-* Cloudflare
-* Craig Jones for influencing me to write my CV in HTML and allowing me to use his source code. 
-* Formspree.io
-* Blackrock Digital
-* GitHub
-* Everyone who provided feedback and support.
+* [Blackrock Digital](https://github.com/BlackrockDigital/startbootstrap-freelancer-jekyll) - for creating the Start Bootstrap Freelancer theme and making it open for me to use.
+* [Cloudflare](https://cloudlfare.com) - for SSL certificate and cache.
+* [Craig Jones] for influencing me to write my CV in HTML and allowing me to use his source code. 
+* [Formspree.io](https://formspree.io) - for secure and free html contact form.
+* [GitHub Pages](https://pages.github.com/_ - for free web hosting.
+* [Jekyll](https://jekyllrb.com/ - static website generator which this website is built on.
+* Everyone who provided me with feedback and support.
+
+Thank you all.
 
 
 ## Copyright and License
