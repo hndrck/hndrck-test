@@ -19,9 +19,9 @@ category: Design
       <div class="col lg-6 md-8 sm-12" align="left">
         <p><b>RWZ.IO</b></p>
             
-<p>Created, designed, and developed a project which provides a digital space to curate audio-visual works of art. It embraces an ethos of openness, collaboration, and continuous improvement.</p>
+Created, designed, and developed a project which provides a digital space to curate audio-visual works of art. It embraces an ethos of openness, collaboration, and continuous improvement.
             
-<p><a href="https://rwz.io" target="_blank">View project.</a></p>     
+<a href="https://rwz.io" target="_blank">View project.</a>     
       <br> <br> <br>
       </div>
       <div class="col lg-3 md-4 sm-12" align="left">
@@ -30,9 +30,9 @@ category: Design
       <div class="col lg-6 md-8 sm-12" align="left">
         <p><b>Digital Rendezvous: Experiences of Students, Staff, and Alumni on a Campus Memory Map</b></p>
             
-<p>Collaborative research project for the Association for Advancement of Artificial Intelligence (AAAI). The project aimed to develop interactive maps, where students, stuff, and alumni can share their memories about a physical space: a university campus.</p>
+Collaborative research project for the Association for Advancement of Artificial Intelligence (AAAI). The project aimed to develop interactive maps, where students, stuff, and alumni can share their memories about a physical space: a university campus.
 
-<p><a href="https://www.aaai.org/ocs/index.php/ICWSM/ICWSM15/paper/viewFile/10650/10543" target="_blank">Presented at the 9th International AAAI Conference of Web and Social Media</a></p>
+<a href="https://www.aaai.org/ocs/index.php/ICWSM/ICWSM15/paper/viewFile/10650/10543" target="_blank">Presented at the 9th International AAAI Conference of Web and Social Media</a>
       <br> <br> <br>
       </div>
 <hr width="100%" align="center">
@@ -45,9 +45,9 @@ category: Design
       <div class="col lg-6 md-8 sm-12" align="left">
         <p><b>The RSA</b></p>
         
-  <p>Awarded fellowship of the Royal Society for the encouragement of Arts, Manufacturing, and Commerce (THE RSA). Frequently attend events, lectures, and meet-ups related to design and social innovation.</p> 
+Awarded fellowship of the Royal Society for the encouragement of Arts, Manufacturing, and Commerce (THE RSA). Frequently attend events, lectures, and meet-ups related to design and social innovation. 
   
-<p><a href="https://www.thersa.org/" target="_blank">Learn more about the RSA</a>.</p>
+<a href="https://www.thersa.org/" target="_blank">Learn more about the RSA</a>.
         <br> <br> <br>
       </div>
 <hr width="100%" align="center">
@@ -55,13 +55,13 @@ category: Design
         <h3>Volunteering</h3>
       </div>
       <div class="col lg-3 md-4 sm-12" align="left">
-        <p>2017 - Present</p>
+        2017 - Present
       </div>
       <div class="col lg-6 md-8 sm-12" align="left">
         <p><b>London School of Economics</b></p>
       
-<p>Mentor an LSE student to help navigate career prospects and disclosing disability when applying for jobs.</p>
+Mentor an LSE student to help navigate career prospects and disclosing disability when applying for jobs.
       
-<p><a href="https://info.lse.ac.uk/current-students/careers/services/for/students-with-disabilities/disability-mentoring-scheme" target="_blank">Learn more about the mentoring scheme</a>.</p>
+<a href="https://info.lse.ac.uk/current-students/careers/services/for/students-with-disabilities/disability-mentoring-scheme" target="_blank">Learn more about the mentoring scheme</a>.
       </div>
 </section>
