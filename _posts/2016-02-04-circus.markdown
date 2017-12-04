@@ -27,7 +27,7 @@ category: Design
       </div>
       <div class="col lg-6 md-8 sm-12" align="left">
         <p><b>Digital Rendezvous: Experiences of Students, Staff, and Alumni on a Campus Memory Map</b></p>
-            <p>Association for Advancement of Artificial Intelligence</p>
+            <p><i>Association for Advancement of Artificial Intelligence</i></p>
             
 <p>The project aimed to develop interactive maps, where students, stuff, and alumni can share their memories about a physical space: a university campus.</p>
 
@@ -42,8 +42,8 @@ category: Design
         <p>2017 - Present</p>
       </div>
       <div class="col lg-6 md-8 sm-12" align="left">
-        <p><b>The RSA</b></a></h4>
-        <p>Fellow</p>
+        <p><b>Fellow</b></p>
+        <p><i>The RSA</i></p>
         
   <p>Awarded fellowship of the Royal Society for the encouragement of Arts, Manufacturing, and Commerce. Frequently attend events, lectures, and meet-ups related to design and social innovation. <a href="https://www.thersa.org/" target="_blank">Find out more about the RSA</a>.</p>
         <br> <br> <br>
