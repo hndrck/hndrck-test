@@ -6,7 +6,14 @@ img: img/portfolio/cabin.png
 modalID: modalCabin
 category: Design
 ---
-   <section class="grid">
+I have extensive experience working in: 
+
+* agile at scale - from organisation comprising of just four people to some of the largest government departments, 
+* end-to-end delivery - from pre-discovery to live services, and, 
+* applying user centered design within public services -from experience mapping, building prototypes, conducting user research, and iterating based on feedback.
+
+  
+  <section class="grid">
       <hr>
       <div align="left">
         <h3>Skillset</h3>
