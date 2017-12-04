@@ -11,7 +11,7 @@ category: Design
 <ul>
 <li><p><b>agile at scale</b> - from organisation comprising of just four people to some of the largest government departments,</p></li>
 <li><p><b>end-to-end delivery</b> - from nascent stages of pre-discovery to fully-functional live services.</p></li> 
-<li><p><b>applying user centered design</b> - from experience mapping, building prototypes, conducting user research, and iterating based on feedback.<p></li>
+<li><p><b>applying user centered design</b> - from experience mapping, building prototypes, conducting user research, and iterating based on feedback.</p></li>
 </ul>
 
 <p>With a particular focus working in public service and digital government.</p>
@@ -22,7 +22,7 @@ category: Design
         <h3>Work</h3>
       </div>
   <div class="col lg-3 md-4 sm-12" align="left">
-        <p>Oct 2017 - Present</p>
+        <p>2017 - Present</p>
       </div>
       <div class="col lg-6 md-8 sm-12" align="left">
         <p><b>Service Designer</b></p>
@@ -35,7 +35,7 @@ category: Design
       <br> <br> <br>
       </div>
       <div class="col lg-3 md-4 sm-12" align="left">
-        <p>April 2017 - Sept 2017</p>
+        <p>2017 - 2017</p>
       </div>
       <div class="col lg-6 md-8 sm-12" align="left">
         <p><b>Digital Product Manager</b></p>
@@ -45,7 +45,7 @@ category: Design
       <br> <br> <br>
       </div>
       <div class="col lg-3 md-4 sm-12" align="left">
-        <p>Oct 2016 - March 2017</p>
+        <p>2016 - 2017</p>
       </div>
       <div class="col lg-6 md-8 sm-12" align="left">
         <p><b>Delivery Lead / Scrum Master</b></p>
@@ -55,6 +55,9 @@ category: Design
 </p>
         <br> <br> <br>
       </div>
+      <div class="col lg-3 md-4 sm-12" align="left">
+        <p>2016 - 2016</p>
+      </div>
       <div class="col lg-6 md-8 sm-12" align="left">
         <p><b>Strategic Service Design Analyst</b></p>
         <p>Department for Work and Pensions</p>
@@ -62,6 +65,9 @@ category: Design
 <p>Redesigned legacy services within DWP's digital portfolio to be more user-centred, cost-saving, and aligned with departmental strategy. Developed business cases for transformational services which were prioritised and implemented by delivery team
 </p>
         <br> <br> <br>
+      </div>
+      <div class="col lg-3 md-4 sm-12" align="left">
+        <p>2015 - 2016</p>
       </div>
       <div class="col lg-6 md-8 sm-12" align="left">
         <p><b>Digital Policy Advisor</b></p>
@@ -85,16 +91,16 @@ category: Design
       </div>
       <div class="col lg-3 md-4 sm-12 list-block" align="left">
         <ul>
-          <li>Design Thinking</li>
-          <li>Experience Mapping</li>
-          <li>Prototyping</li>
+          <li><p>Design Thinking</p></li>
+          <li><p>Experience Mapping</p></li>
+          <li><p>Prototyping</p></li>
         </ul>
       </div>
       <div class="col lg-3 md-4 sm-12 list-block" align="left">
         <ul>
-          <li>HTML and CSS</li>
-          <li>User Research</li>
-          <li class="baselinex0">UX and Service Design</li>
+          <li><p>HTML and CSS</p></li>
+          <li><p>User Research</p></li>
+          <li class="baselinex0"><p>UX and Service Design</p></li>
         </ul>
         <br> <br> <br>
       </div>
@@ -105,23 +111,23 @@ category: Design
    <br>
       <div class="col lg-3 md-4 sm-12 list-block" align="left">
         <ul>
-          <li>Confluence</li>
-          <li>JIRA</li>
-          <li>Trello</li>
+          <li><p>Confluence</p></li>
+          <li><p>JIRA</p></li>
+          <li><p>Trello</p></li>
         </ul>
       </div>
     <div class="col lg-3 md-4 sm-12 list-block" align="left">
         <ul>
-          <li>InVision</li>
-          <li>Marvel</li>
-          <li>Sketch</li>
+          <li><p>InVision</p></li>
+          <li><p>Marvel</p></li>
+          <li><p>Sketch</p></li>
         </ul>
       </div>
       <div class="col lg-3 md-4 sm-12 list-block" align="left">
         <ul>
-          <li>Adobe Creative Suite</li>
-          <li>Google Suite</li>
-          <li class="baselinex0">Microsoft Office Suite</li>
+          <li><p>Adobe Creative Suite</p></li>
+          <li><p>Google Suite</p></li>
+          <li class="baselinex0"><p>Microsoft Office Suite</p></li>
         </ul>
       </div>
     </section>
