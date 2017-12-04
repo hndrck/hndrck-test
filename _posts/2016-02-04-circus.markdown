@@ -36,27 +36,19 @@ category: Design
       </div>
 <hr width="100%" align="center">
       <div class="col lg-3 md-12 sm-12 section-title" align="left">
-        <h3>Organisations</h3>
+        <h3>Fellowship</h3>
       </div>
       <div class="col lg-3 md-4 sm-12" align="left">
         <p>2017 - Present</p>
       </div>
       <div class="col lg-6 md-8 sm-12" align="left">
-        <p><b>Fellow</b></p>
-        <p><i>The RSA</i></p>
+        <p><b>The RSA</b></p>
         
   <p>Awarded fellowship of the Royal Society for the encouragement of Arts, Manufacturing, and Commerce. Frequently attend events, lectures, and meet-ups related to design and social innovation. <a href="https://www.thersa.org/" target="_blank">Find out more about the RSA</a>.</p>
         <br> <br> <br>
       </div>
 <div class="col lg-3 md-4 sm-12" align="left">
         <p>2017 - Present</p>
-      </div>
-      <div class="col lg-6 md-8 sm-12" align="left">
-        <p><b>BCS</b></p>
-        <p>Associate Member</p>
-        
-  <p>Rewarded with associate membership of the British Computer Society after successfully earning my Agile Practitioner Certification. The BCS is the UK's professional body and learned society for working in Information Technology. <a href="https://www.bcs.org/" target="_blank">Find out more about the BCS</a>.</p>
-        <br> <br> <br>
       </div>
 <hr width="100%" align="center">
       <div class="col lg-3 md-12 sm-12 section-title" align="left">
@@ -67,7 +59,6 @@ category: Design
       </div>
       <div class="col lg-6 md-8 sm-12" align="left">
         <p><b>London School of Economics</b></p>
-        <p>Mentor<p>
       
 <p>Mentor an LSE student to help navigate career prospects and disclosing disability when applying for jobs. <a href="https://info.lse.ac.uk/current-students/careers/services/for/students-with-disabilities/disability-mentoring-scheme" target="_blank">Find out more about the mentoring scheme</a>.</p>
       </div>
