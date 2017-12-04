@@ -52,7 +52,7 @@ category: Design
         <p>2017 - Present</p>
       </div>
       <div class="col lg-6 md-8 sm-12" align="left">
-        <p><b>BCS</b></a></h4>
+        <p><b>BCS</b></p>
         <p>Associate Member</p>
         
   <p>Rewarded with associate membership of the British Computer Society after successfully earning my Agile Practitioner Certification. The BCS is the UK's professional body and learned society for working in Information Technology. <a href="https://www.bcs.org/" target="_blank">Find out more about the BCS</a>.</p>
