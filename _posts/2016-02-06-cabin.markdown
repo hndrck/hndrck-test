@@ -21,7 +21,7 @@ category: Design
         <h3>Work</h3>
       </div>
   <div class="col lg-3 md-4 sm-12" align="left">
-        <p>2017 - Present</p>
+        <p>Oct 2017 - Present</p>
       </div>
       <div class="col lg-6 md-8 sm-12" align="left">
         <p><b>Service Designer</b></p>
@@ -32,7 +32,7 @@ category: Design
       <br> <br> <br>
       </div>
       <div class="col lg-3 md-4 sm-12" align="left">
-        <p>2017 - 2017</p>
+        <p>Apr 2017 - Sep 2017</p>
       </div>
       <div class="col lg-6 md-8 sm-12" align="left">
         <p><b>Digital Product Manager</b></p>
