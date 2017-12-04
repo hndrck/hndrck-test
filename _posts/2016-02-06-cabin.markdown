@@ -7,25 +7,80 @@ modalID: modalCabin
 category: Design
 ---
 <div align="left">
-<p>I have extensive experience working in:</p>
+<p>I have extensive experience with:</p>
 <ul>
 <li><p><b>agile at scale</b> - from organisation comprising of just four people to some of the largest government departments,</p></li>
 <li><p><b>end-to-end delivery</b> - from nascent stages of pre-discovery to fully-functional live services.</p></li> 
-<li><b>applying user centered design</b> - from experience mapping, building prototypes, conducting user research, and iterating based on feedback.</li>
+<li><p><b>applying user centered design</b> - from experience mapping, building prototypes, conducting user research, and iterating based on feedback.<p></li>
 </ul>
 
-<p>With a particular focus on public service and digital government.</p>
+<p>With a particular focus working in public service and digital government.</p>
   <section class="grid">
       <hr>
+  <hr width="100%" align="center">
+      <div class="col lg-3 md-12 sm-12 section-title" align="left">
+        <h3>Work</h3>
+      </div>
+  <div class="col lg-3 md-4 sm-12" align="left">
+        <p>Oct 2017 - Present</p>
+      </div>
+      <div class="col lg-6 md-8 sm-12" align="left">
+        <p><b>Service Designer</b></p>
+        <p>Ministry of Justice</p>
+        
+<p>Designing for public facing and internal services within the scope of prisoner money. Building prototypes, usability testing, and experience mapping to ensure that end-to-end service delivery is constantly iterating to become more user-centred and save costs.
+</p>
+        
+<p><a href="https://www.gov.uk/send-prisoner-money" target="_blank">Public facing service.</a>.</p>
+      <br> <br> <br>
+      </div>
+      <div class="col lg-3 md-4 sm-12" align="left">
+        <p>April 2017 - Sept 2017</p>
+      </div>
+      <div class="col lg-6 md-8 sm-12" align="left">
+        <p><b>Digital Product Manager</b></p>
+        <p>OxFizz (secondment)</p>
+        
+<p>Responsible for all things digital in a small commercially driven social enterprise. Successfully introduced and embedded agile ways of working within the organisation, redesigned service delivery and automated processes to improve the experience of customers, volunteers, and staff.</p>
+      <br> <br> <br>
+      </div>
+      <div class="col lg-3 md-4 sm-12" align="left">
+        <p>Oct 2016 - March 2017</p>
+      </div>
+      <div class="col lg-6 md-8 sm-12" align="left">
+        <p><b>Delivery Lead / Scrum Master</b></p>
+        <p>Her Majesty's Revenue and Customs</p>
+        
+<p>Successfully led and managed the delivery of an OECD mandated, policy-driven digital service: Country-by-Country reporting. Worked in agile at scale, managing a small multidisciplinary team to deliver alongside interdependent teams on an unprecedented international project sharing data between tax authorities.
+</p>
+        <br> <br> <br>
+      </div>
+      <div class="col lg-6 md-8 sm-12" align="left">
+        <p><b>Strategic Service Design Analyst</b></p>
+        <p>Department for Work and Pensions</p>
+        
+<p>Redesigned legacy services within DWP's digital portfolio to be more user-centred, cost-saving, and aligned with departmental strategy. Developed business cases for transformational services which were prioritised and implemented by delivery team
+</p>
+        <br> <br> <br>
+      </div>
+      <div class="col lg-6 md-8 sm-12" align="left">
+        <p><b>Digital Policy Advisor</b></p>
+        <p>Government Digital Service</p>
+        
+<p>Worked within an agile and user-centred policy team to champion assisted digital and digital inclusion. Led on research and delivery of a pilot project regarding assisted digital for identity assurance, findings were utilised to improve service standards.
+</p>
+        <br> <br> <br>
+      </div>
+      <hr width="100%" align="center">
       <div align="left">
         <h3>Skillset</h3>
       </div>
    <br>
       <div class="col lg-3 md-4 sm-12 list-block" align="left">
         <ul>
-          <li>Agile Delivery</li>
-          <li>Digital Policy</li>
-          <li>Stakeholder Engagement</li>
+          <li><p>Agile Delivery</p></li>
+          <li><p>Digital Policy</p></li>
+          <li><p>Stakeholder Engagement</p></li>
         </ul>
       </div>
       <div class="col lg-3 md-4 sm-12 list-block" align="left">
