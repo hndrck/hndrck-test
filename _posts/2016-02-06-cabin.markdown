@@ -48,7 +48,7 @@ category: Design
         <p><b>Delivery Lead / Scrum Master</b></p>
         <p>Her Majesty's Revenue and Customs</p>
         
-<p>Led and managed the delivery of a policy-driven digital service: Country-by-Country reporting. Worked in agile at scale, managing a small multidisciplinary team to deliver an unprecedented international project which shares data submitted by multinational-enterprises between tax authorities.
+<p>Led and managed the delivery of a policy-driven digital service: Country-by-Country reporting. Worked in agile at scale, managing a small multidisciplinary team to deliver an unprecedented international project which collects data from multinational enterprises and shares it between tax authorities.
 </p>
         <br> <br> <br>
       </div>
