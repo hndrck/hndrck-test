@@ -49,7 +49,7 @@ category: Design
         
 <p>Engaged in an intensive user experience design course which began with defining a problem and going through design process to come up with a solution. It involved conducting user-research, experience mapping, wireframing, rapid prototyping, usability testing, and presenting our work in a final presentation.</p>
         
-<p><a href="/docs/GA-Presentation.pdf" target="_blank">View final presentation.</a>.</p
+<p><a href="/docs/GA-Presentation.pdf" target="_blank">Final presentation.</a>.</p>
 
 <p><a href="/docs/GA-UXD-Certificate.pdf" target="_blank">View certificate</a>.</p>
       <br> <br> <br>
@@ -63,9 +63,9 @@ category: Design
         
 <p>Successfully completed an intensive course run by IDEO, in a team with two other designers based in Toronto. We collaborated on a design challenge to go through the stages of inspiration, ideation, and implementation.</p>
         
-<p><a href="/docs/IDEO-Presentation.pdf" target="_blank">See the learning outcome and result of our hard work</a>.</p>
+<p><a href="/docs/IDEO-Presentation.pdf" target="_blank">Learning outcome and result of our hard work</a>.</p>
 
-<p><a href="/docs/IDEO-HCD-Certificate.pdf" target="_blank">View certificate</a>.</p>
+<p><a href="/docs/IDEO-HCD-Certificate.pdf" target="_blank">Statement of Accomplishment</a>.</p>
       <br> <br> <br>
       </div>
       <div class="col lg-3 md-4 sm-12" align="left">
@@ -77,9 +77,9 @@ category: Design
         
 <p>Pursued a 12-week part-time training course provided by emergn around the fundamental principles of agile, lean, and user-centred design. At the end, I was wrote and successfully passed an exam provided by the British Computer Society which provides a professional certification as a practitioner in agile.</p>
     
-<p><a href="/docs/Agile-Presentation.pdf" target="_blank">Presentation how I applied some of my learning while working as a Scrum Master</a>.</p>
+<p><a href="/docs/Agile-Presentation.pdf" target="_blank">How I applied my learning while working as a Scrum Master</a>.</p>
 
-<p><a href="/docs/Agile-Practitioner.pdf" target="_blank">View Agile Practitioner certification</a>.</p>
+<p><a href="/docs/Agile-Practitioner.pdf" target="_blank">Agile Practitioner certification</a>.</p>
         <br> <br> <br>
       </div>
 </section>
