@@ -9,7 +9,7 @@
 title: Brian Hendrick
 email: b.r.hendrick@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  agile aficionado - design thinker - product person
+  agile practitioner - design thinker - service innovator
 baseurl: # the subpath of your site, e.g. /blog
 url: "https://brianhendrick.com" # the base hostname & protocol for your site
 enforce_ssl: "brianhendrick.com"
