@@ -19,18 +19,20 @@ category: Design
       </div>
       <div class="col lg-6 md-8 sm-12" align="left">
         <p><b>MSc Philosophy and Public Policy</b></p>
-        <p><i>London School of Economics</i></p>
-        <p>Graduated with merit from interdisciplinary studies applying philosophical theory into policy practices, with a focus on digital policy and philosophy of technology. Dissertation introduced the concept of a cyber-harm principle to synthesise the conflict between cyber-libertarianism and cyber-paternalism.
+        <p>London School of Economics</p>
+            
+<p>Graduated with merit from interdisciplinary studies applying philosophical theory into policy practices, with a focus on digital policy and philosophy of technology. Dissertation introduced the concept of a cyber-harm principle to synthesise the conflict between cyber-libertarianism and cyber-paternalism.
 </p>
       <br> <br> <br>
       </div>
       <div class="col lg-3 md-4 sm-12" align="left">
-        <h5>2010 - 2014</h5>
+        <p>2010 - 2014</p>
       </div>
       <div class="col lg-6 md-8 sm-12" align="left">
-        <h4>BA (Hons) Philosophy and Political Science</h4>
-        <h6>University of Guelph</h6>
-        <p>Graduated with distinction from a double major in Philosophy and Political Science. Researched and wrote two honours theses: one focusing on how digital media and the internet influences our perception of and relationship with the self, others, and the world. The other doing a comparative analysis of monetary policy within Canada and the UK, researching the potential conflict central banks may have on principles of democracy. 
+        <p><b>BA (Hons) Philosophy and Political Science</b></p>
+        <p>University of Guelph</p>
+        
+<p>Graduated with distinction from a double major in Philosophy and Political Science. Researched and wrote two honours theses: one focusing on how digital media and the internet influences our perception of and relationship with the self, others, and the world. The other doing a comparative analysis of monetary policy within Canada and the UK, researching the potential conflict central banks may have on principles of democracy. 
 </p>
       <br> <br> <br>
       </div>
@@ -39,37 +41,45 @@ category: Design
         <h3>Independent Study</h3>
       </div>
   <div class="col lg-3 md-4 sm-12" align="left">
-        <h5>2017</h5>
+        <p>2017</p>
       </div>
       <div class="col lg-6 md-8 sm-12" align="left">
-        <h4>User Experience Design</h4>
-        <h6>General Assembly</h6>
-        <p>Placeholder Text
-</p>
-        <br><br>
-        <p><a href="/docs/GA-UXD-Certificate.pdf" target="_blank">View certificate</a>.</p>
+        <p><b>User Experience Design</b></p>
+        <p>General Assembly</p>
+        
+<p>Engaged in an intensive user experience design course which began with defining a problem and going through design process to come up with a solution. It involved conducting user-research, experience mapping, wireframing, rapid prototyping, usability testing, and presenting our work in a final presentation.</p>
+        
+<p><a href="/docs/GA-Presentation.pdf" target="_blank">View final presentation.</a>.</p
+
+<p><a href="/docs/GA-UXD-Certificate.pdf" target="_blank">View certificate</a>.</p>
       <br> <br> <br>
       </div>
       <div class="col lg-3 md-4 sm-12" align="left">
-        <h5>2017</h5>
+        <p>2017</p>
       </div>
       <div class="col lg-6 md-8 sm-12" align="left">
-        <h4>Design Kit: The Course for Human-Centered Design</h4>
-        <h6>IDEO</h6>
-        <p>Placeholder text
-</p>
-        <br><br>
-        <p><a href="/docs/IDEO-HCD-Certificate.pdf" target="_blank">View certificate</a>.</p>
+        <p><b>Design Kit: The Course for Human-Centered Design</b></p>
+        <p>IDEO</p>
+        
+<p>Successfully completed an intensive course run by IDEO, in a team with two other designers based in Toronto. We collaborated on a design challenge to go through the stages of inspiration, ideation, and implementation.</p>
+        
+<p><a href="/docs/IDEO-Presentation.pdf" target="_blank">See the learning outcome and result of our hard work</a>.</p>
+
+<p><a href="/docs/IDEO-HCD-Certificate.pdf" target="_blank">View certificate</a>.</p>
       <br> <br> <br>
+      </div>
       <div class="col lg-3 md-4 sm-12" align="left">
-        <h5>2017 - Present</h5>
+        <p>2017 - Present</p>
       </div>
       <div class="col lg-6 md-8 sm-12" align="left">
-        <h4>Practitioner in Agile</h4>
-        <h6>British Computer Society</h6>
-        <p>Placeholder Text</p>
-        <br><br>
-        <p><a href="/docs/Agile-Practitioner.pdf" target="_blank">View certificate</a>.</p>
+        <p><b>Practitioner in Agile</b></p>
+        <p>British Computer Society</p>
+        
+<p>Pursued a 12-week part-time training course provided by emergn around the fundamental principles of agile, lean, and user-centred design. At the end, I was wrote and successfully passed an exam provided by the British Computer Society which provides a professional certification as a practitioner in agile.</p>
+    
+<p><a href="/docs/Agile-Presentation.pdf" target="_blank">Presentation how I applied some of my learning while working as a Scrum Master</a>.</p>
+
+<p><a href="/docs/Agile-Practitioner.pdf" target="_blank">View Agile Practitioner certification</a>.</p>
         <br> <br> <br>
       </div>
-<hr width="100%" align="center">
+</section>
