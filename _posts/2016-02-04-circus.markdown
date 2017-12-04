@@ -45,7 +45,7 @@ category: Design
         
   <p>Awarded fellowship of the Royal Society for the encouragement of Arts, Manufacturing, and Commerce (THE RSA). Frequently attend events, lectures, and meet-ups related to design and social innovation.</p> 
   
-<a href="https://www.thersa.org/" target="_blank">Learn more about the RSA</a>.
+<p><a href="https://www.thersa.org/" target="_blank">Learn more about the RSA</a>.</p>
         <br> <br> <br>
       </div>
 <hr width="100%" align="center">
@@ -60,6 +60,6 @@ category: Design
       
 <p>Mentor an LSE student to help navigate career prospects and disclosing disability when applying for jobs.</p>
       
-<a href="https://info.lse.ac.uk/current-students/careers/services/for/students-with-disabilities/disability-mentoring-scheme" target="_blank">Learn more about the mentoring scheme</a>.
+<p><a href="https://info.lse.ac.uk/current-students/careers/services/for/students-with-disabilities/disability-mentoring-scheme" target="_blank">Learn more about the mentoring scheme</a>.</p>
       </div>
 </section>
