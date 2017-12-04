@@ -27,11 +27,10 @@ category: Design
       </div>
       <div class="col lg-6 md-8 sm-12" align="left">
         <p><b>Digital Rendezvous: Experiences of Students, Staff, and Alumni on a Campus Memory Map</b></p>
-            <p><i>Association for Advancement of Artificial Intelligence</i></p>
             
-<p>The project aimed to develop interactive maps, where students, stuff, and alumni can share their memories about a physical space: a university campus.</p>
+<p>Collaborative research project for the Association for Advancement of Artificial Intelligence (AAAI). The project aimed to develop interactive maps, where students, stuff, and alumni can share their memories about a physical space: a university campus.</p>
 
-<p><a href="https://www.aaai.org/ocs/index.php/ICWSM/ICWSM15/paper/viewFile/10650/10543" target="_blank">Presented on May 26 2015 at the 9th International AAAI Conference of Web and Social Media</a></p>
+<p><a href="https://www.aaai.org/ocs/index.php/ICWSM/ICWSM15/paper/viewFile/10650/10543" target="_blank">Presented at the 9th International AAAI Conference of Web and Social Media</a></p>
       <br> <br> <br>
       </div>
 <hr width="100%" align="center">
@@ -44,7 +43,9 @@ category: Design
       <div class="col lg-6 md-8 sm-12" align="left">
         <p><b>The RSA</b></p>
         
-  <p>Awarded fellowship of the Royal Society for the encouragement of Arts, Manufacturing, and Commerce. Frequently attend events, lectures, and meet-ups related to design and social innovation. <a href="https://www.thersa.org/" target="_blank">Find out more about the RSA</a>.</p>
+  <p>Awarded fellowship of the Royal Society for the encouragement of Arts, Manufacturing, and Commerce (THE RSA). Frequently attend events, lectures, and meet-ups related to design and social innovation.</p> 
+  
+<a href="https://www.thersa.org/" target="_blank">Learn more about the RSA</a>.
         <br> <br> <br>
       </div>
 <hr width="100%" align="center">
@@ -59,6 +60,6 @@ category: Design
       
 <p>Mentor an LSE student to help navigate career prospects and disclosing disability when applying for jobs.</p>
       
-<a href="https://info.lse.ac.uk/current-students/careers/services/for/students-with-disabilities/disability-mentoring-scheme" target="_blank">Find out more about the mentoring scheme</a>.
+<a href="https://info.lse.ac.uk/current-students/careers/services/for/students-with-disabilities/disability-mentoring-scheme" target="_blank">Learn more about the mentoring scheme</a>.
       </div>
 </section>
