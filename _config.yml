@@ -37,5 +37,9 @@ linkedin_url: https://www.linkedin.com/in/hendrickbrian/
 address_street: Born in Toronto, Ontario, Canada
 address_city: Based in London, United Kingdom
 
+# Google Analytics
+
+google_analytics: "UA-110658197-1"
+
 # Build settings
 markdown: kramdown
