@@ -21,7 +21,7 @@ category: Design
             
 <p>Created, designed, and developed a project which provides a digital space to curate audio-visual works of art. It embraces an ethos of openness, collaboration, and continuous improvement.</p>
             
-<p><a href="https://rwz.io" target="_blank">View project.</a></p>     
+<p><a href="https://rwz.io" target="_blank">View project</a></p>     
       <br> <br> <br>
       </div>
       <div class="col lg-3 md-4 sm-12" align="left">
@@ -47,7 +47,7 @@ category: Design
         
 <p>Awarded fellowship of the Royal Society for the encouragement of Arts, Manufacturing, and Commerce.</p>
   
-<p><a href="https://www.thersa.org/" target="_blank">Learn more about the RSA</a>.</p>
+<p><a href="https://www.thersa.org/" target="_blank">Learn more about the RSA</a></p>
         <br> <br> <br>
       </div>
 <hr width="100%" align="center">
@@ -63,6 +63,6 @@ category: Design
       
 <p>Provide support to an LSE student who shares similar experiences. Help advise with career aspirations and guidance disclosing disability when applying for jobs.</p>
       
-<p><a href="https://info.lse.ac.uk/current-students/careers/services/for/students-with-disabilities/disability-mentoring-scheme" target="_blank">Learn more about the mentoring scheme</a>.</p>
+<p><a href="https://info.lse.ac.uk/current-students/careers/services/for/students-with-disabilities/disability-mentoring-scheme" target="_blank">Learn more about the mentoring scheme</a></p>
       </div>
 </section>
