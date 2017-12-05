@@ -77,9 +77,9 @@ category: Design
         
 <p>Pursued a 12-week part-time training course provided by <i>emergn</i> around the fundamental principles of agile, lean, and user-centred design. Successfully completed exam provided by the British Computer Society.</p>
     
-<p><a href="/docs/Agile-Presentation.pdf" target="_blank">How I applied my learning while working as a Scrum Master</a></p>
+<p><a href="/docs/Agile-presentation.pdf" target="_blank">How I applied my learning while working as a Scrum Master</a></p>
 
-<p><a href="/docs/Agile-Practitioner.pdf" target="_blank">Agile Practitioner certification</a>.</p>
+<p><a href="/docs/Agile-Practitioner.pdf" target="_blank">Agile Practitioner certification</a></p>
         <br> <br> <br>
       </div>
 </section>
