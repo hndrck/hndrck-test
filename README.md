@@ -10,10 +10,12 @@ There are plenty of platforms which easily let you create websites, but these ca
 
 * [Blackrock Digital](https://github.com/BlackrockDigital/startbootstrap-freelancer-jekyll) - for creating the Start Bootstrap Freelancer theme and making it open for me to use.
 * [Cloudflare](https://cloudlfare.com) - for SSL certificate and cache.
-* [Craig Jones](craighjones.co.uk) for influencing me to write my CV in HTML and allowing me to use his source code. 
+* [Craig Jones](http://www.craighjones.co.uk/) - for influencing me to write my CV in HTML and allowing me to use his source code. 
+* [Devika Deonarine](http://devika.digital) - for helping me with editing content and making it succinct.
 * [Formspree.io](https://formspree.io) - for secure and free html contact form.
 * [GitHub Pages](https://pages.github.com/) - for free web hosting.
 * [Jekyll](https://jekyllrb.com/) - static website generator which this website is built on.
+* [Kent Saunders](http://kentsaunders.ca/) - for the design critique and feedback to improve the website.
 * Everyone who provided me with feedback and support.
 
 
