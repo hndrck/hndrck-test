@@ -56,11 +56,11 @@ hr.star-primary:after {
   content: '\f1b3'; }
 
 hr.star-light {
-  border-color: white; }
+  border-color: #2A2A2A; }
 
 hr.star-light:after {
-  color: white;
-  background-color: #eef8fa; }
+  color: #2A2A2A;
+  background-color: #d3f2ed; }
 
 hr.star-primary {
   border-color: #2C3E50; }
@@ -76,7 +76,7 @@ hr.star-primary:after {
 header {
     text-align: center;
     color: #2A2A2A;
-    background: #eef8fa
+    background: #d3f2ed
 }
 
 header .container {
@@ -175,7 +175,7 @@ section h2 {
 
 section.success {
     color: #2A2A2A;
-    background: #bfdaf6;
+    background: #d3f2ed;
 }
 
 @media(max-width:767px) {
@@ -205,7 +205,7 @@ section.success {
     width: 100%;
     height: 100%;
     opacity: 0;
-    background: #327669;
+    background: #2c3e50;
     -webkit-transition: all ease .5s;
     -moz-transition: all ease .5s;
     transition: all ease .5s;
