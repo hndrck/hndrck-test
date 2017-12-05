@@ -9,7 +9,7 @@ category: Design
 <div align="left">
 <p>I have extensive experience with:</p>
 <ul>
-<li><p><b>agile at scale</b> - from organisation comprising of just four people to some of the largest government departments.</p></li>
+<li><p><b>agile at scale</b> - working in organisations comprising of just four people to some of the largest government departments.</p></li>
 <li><p><b>end-to-end delivery</b> - from beginning stages of pre-discovery to fully-functional live services.</p></li> 
 <li><p><b>applying user centered design</b> - from experience mapping, building prototypes, conducting user research, and iterating based on feedback.</p></li>
 </ul>
